@@ -1,5 +1,3 @@
-vdq-arrondissement.geojson.json
-vdq-cheminfer.geojson.json
-vdq-hydrobordurecourseau.geojson.json
-vdq-hydrocourseauxsurface.geojson.json
-vdq-hydrocentrecourseaux.geojson.json
+arrondissement.js
+cheminfer.js
+hydro.js
